@@ -1,0 +1,16 @@
+{
+    "options": [
+      {
+        "text": "Testers",
+        "value": "test"
+      },
+      {
+        "text": "Users",
+        "value": "users"
+      },
+      {
+        "text": "Administrative Users",
+        "value": "admins"
+      }
+    ]
+  }
